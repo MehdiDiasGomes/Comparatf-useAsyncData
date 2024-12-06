@@ -1,5 +1,4 @@
-# Comparatif : TanStack Query vs useAsyncData + Pinia 🍍
-
+# Comparatif : TanStack Query vs useAsyncData
 ## Vue d'ensemble
 
 ### TanStack Query
